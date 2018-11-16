@@ -37,3 +37,4 @@ rsconnect/
 
 #::GMG:: no ipynb chackpoints
 .ipynb_checkpoints/
+lab/*/.ipynb_checkpoints/
