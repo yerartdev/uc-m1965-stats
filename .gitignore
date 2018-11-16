@@ -36,4 +36,4 @@ vignettes/*.pdf
 rsconnect/
 
 #::GMG:: no ipynb chackpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
