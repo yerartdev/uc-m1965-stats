@@ -38,3 +38,6 @@ rsconnect/
 #::GMG:: no ipynb chackpoints
 .ipynb_checkpoints/
 lab/*/.ipynb_checkpoints/
+
+#::GMG:: ignore big dataset
+p11/train.csv
